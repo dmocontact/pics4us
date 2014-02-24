@@ -1,0 +1,5 @@
+# Ignore photos/
+photos/*
+.htaccess
+generated/*
+.DS_Store
